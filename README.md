@@ -5,3 +5,5 @@ Welcome to my GitHub page! I'm Thomas Blouir, an aspiring Software Engineer.
 Contact me:
 - Email: blouir.thomas@gmail.com
 - LinkedIn: https://www.linkedin.com/in/thomas-blouir-553110251/
+
+Picture: Marek Piwnicki
